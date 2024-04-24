@@ -1,0 +1,8 @@
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\bin\Debug\Trabalho_Urna_DS.exe.config
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\bin\Debug\Trabalho_Urna_DS.exe
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\bin\Debug\Trabalho_Urna_DS.pdb
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\obj\Debug\Trabalho_Urna_DS.csproj.AssemblyReference.cache
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\obj\Debug\Trabalho_Urna_DS.csproj.SuggestedBindingRedirects.cache
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\obj\Debug\Trabalho_Urna_DS.csproj.CoreCompileInputs.cache
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\obj\Debug\Trabalho_Urna_DS.exe
+C:\Users\caued\OneDrive\Documentos\trabalho ds\Trabalho_Urna_DS\Trabalho_Urna_DS\obj\Debug\Trabalho_Urna_DS.pdb
